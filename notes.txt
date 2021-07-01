@@ -1,0 +1,25 @@
+db user name
+komal   pass: 1234
+
+mongodb+srv://komal:<password>@cluster0.ijtbh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
+DATABASE=mongodb+srv://komal:1234@cluster0.ijtbh.mongodb.net/MERNStackDB?retryWrites=true&w=majority
+
+
+{
+    "pid":"F1",
+    "fname":"Komal",
+    "lname":"Nida",
+    "phone":"577834567",
+    "CNIC":"34567898765432",
+    "DOB":"6-10-1998",
+    "email":"komal@gamil.com",
+    "profession": "Farmer",   
+    "username":"komal_nida",
+    "password":"abcd123",
+    "cpassword":"abcd123",
+    "farmerbill":"0" ,
+    "farmerPostalCode":""
+}
